@@ -1,2 +1,2 @@
-# FOSS-Website
-Website for FOSS Club
+# MY-Website
+Website for MY Club
